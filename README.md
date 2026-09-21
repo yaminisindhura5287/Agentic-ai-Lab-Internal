@@ -1,7 +1,7 @@
 # Applied Agentic AI — Lab Internal 1
 
-**Student Name:** K. Yamini Sindhura  
-**Roll Number:** 2311CS050104  
+**Student Name:** L. Yamini Sindhura  
+**Roll Number:** 2311CS050109  
 **Class / Lab:** 10th — Agentic AI Lab  
 **Repository:** [https://github.com/yaminisindhura5287/Agentic-ai-Lab-Internal](https://github.com/yaminisindhura5287/Agentic-ai-Lab-Internal)
 
